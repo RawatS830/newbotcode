@@ -1,0 +1,21 @@
+	 
+
+https://rb-ci-mssql-monitoring.bosch.com/login/?redirect_uri=https%3A%2F%2Frb-ci-mssql-monitoring.bosch.com%2Faui%2Fauth&client_id=foglight&code_challenge=Ii34WbHJZSaLkCTALPjjPZAlCA3LOv6Nc9GH_fJXvI4
+
+
+
+=============
+
+RBEIAdmin
+Foglight&Admin56
+
+
+https://SI0VM06259.de.bosch.com:8443/aui -- SL3 DE & EMEA
+https://SI0VM06857.de.bosch.com:8443/aui -- SL3 BSH
+https://SI0VM06280.de.bosch.com:8443/aui -- SL3 APAC & RBNA
+https://SI0VM06258.de.bosch.com:8443/aui -- SL4
+https://SI0VM06265.de.bosch.com:8443/aui -- SL2
+https://SI0VM06264.de.bosch.com:8443/aui -- SL1
+
+
+===========
